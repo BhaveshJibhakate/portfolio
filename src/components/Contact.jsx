@@ -90,7 +90,7 @@ const Contact = () => {
           <FaPhone />
         </IconLink>
         <IconLink
-          href="mailto:youremail@example.com"
+          href="mailto:bhavesh.jibhakate@example.com"
           target="_blank"
           rel="noopener noreferrer"
         >
