@@ -162,6 +162,15 @@ const Projects = () => {
           <Description>
             A React app that fetches live weather data using the OpenWeather API.
           </Description>
+          <ButtonGroup>
+            <Button
+              href="https://bj-weather-app.netlify.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="live"
+            >
+              🔗 Live Demo
+            </Button>
           <Button
             href="https://github.com/BhaveshJibhakate/weather-dashboard"
             target="_blank"
@@ -170,6 +179,7 @@ const Projects = () => {
           >
             💻 Code
           </Button>
+          </ButtonGroup>
         </Card>
 
         {/* To-Do App */}
